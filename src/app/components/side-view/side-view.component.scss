@@ -65,3 +65,88 @@
     border-left: 3px solid black;
     padding-left: 10px;
 }
+
+
+/*
+body {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f4f4f4;
+}
+
+.topbar {
+  width: 100%;
+  background-color: white;
+  border-bottom: 3px solid black;
+  box-shadow: 0 10px 0 0 black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 10px 20px;
+  z-index: 1000;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 28px;
+  font-weight: bold;
+  display: inline-block;
+  border: 3px solid black;
+  padding: 5px 10px;
+  box-shadow: 3px 3px 0 0 black;
+}
+
+.topbar nav {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.topbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.topbar ul li {
+  margin: 0 15px;
+}
+
+.topbar ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  border: 2px solid black;
+  padding: 5px 10px;
+  background-color: white;
+  box-shadow: 3px 3px 0 0 black;
+  transition: background 0.3s, transform 0.3s;
+}
+
+.topbar ul li a:hover {
+  background-color: #e0e0e0;
+  transform: translate(-3px, -3px);
+  box-shadow: 0 0 0 0 black;
+}
+
+.content {
+  padding: 100px 20px 20px 20px; /* Top padding accounts for fixed topbar
+}
+
+.content h2 {
+  font-size: 32px;
+  border-bottom: 3px solid black;
+  padding-bottom: 10px;
+  display: inline-block;
+  box-shadow: 3px 3px 0 0 black;
+  margin-top: 0;
+}
+
+.content p {
+  font-size: 18px;
+  border-left: 3px solid black;
+  padding-left: 10px;
+  box-shadow: 3px 3px 0 0 black;
+}
+
+*/
